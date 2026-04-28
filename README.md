@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Koushika 👋
 
-<!--
-**koushika2105/koushika2105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Java Backend Developer  
+🎨 UI/UX Developer  
+🤖 Interested in IoT with AI & Spring Boot  
 
-Here are some ideas to get you started:
+## Skills
+- Java
+- Spring Boot
+- PostgreSQL
+- Arduino
+- Figma (UI/UX Design)
+- IoT with AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Smart Traffic Management System (IoT)
+- Smart Dustbin
+- URL Shortener (Spring Boot)
+- To-Do App (Backend)
+- Bus Reservation System
+
+## Contact
+- LinkedIn: https://www.linkedin.com/in/koushika-manikandan-b5bb94318
+- GitHub: https://github.com/koushika2105
